@@ -31,7 +31,7 @@ const Home = () => {
     <div>
       <form className="max-w-md mx-auto p-4 bg-black shadow-md rounded-lg mt-8">
         <div className="mb-4">
-          <label className="block text-white text-sm font-bold mb-2">
+          <label className="block text-white text-md font-bold mb-2">
             Name:
           </label>
           <input
@@ -44,7 +44,7 @@ const Home = () => {
           />
         </div>
         <div className="mb-4">
-          <label className="block text-white text-sm font-bold mb-2">
+          <label className="block text-white text-md font-bold mb-2">
             Age:
           </label>
           <input
@@ -57,7 +57,7 @@ const Home = () => {
           />
         </div>
         <div className="mb-4">
-          <label className="block text-white text-sm font-bold mb-2">
+          <label className="block text-white text-md font-bold mb-2">
             Email:
           </label>
           <input
@@ -70,7 +70,7 @@ const Home = () => {
           />
         </div>
         <div className="mb-4">
-          <label className="block text-white text-sm font-bold mb-2">
+          <label className="block text-white text-md font-bold mb-2">
             Contact:
           </label>
           <input
